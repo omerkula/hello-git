@@ -9,7 +9,7 @@ public class AAsecimsorusuKomplex {
 		boolean validInput = false;
 
 		do {
-			System.out.println("Sehrin Milletvekili Toplam Sayısı: ");
+			System.out.println("Sehrin Mv Toplam Sayısı: ");
 			String sehirMvSayısıStr = scanner.next();
 			
 			try {
