@@ -4,14 +4,14 @@ public class TextSearchDemo {
 
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
-		// Phrase
+		// Phrase alınacak kullanıcıdan
 		System.out.println("Please enter a phrase: ");
 		String phrase = scanner.nextLine();
 
 		System.out.println("My phrase: " + phrase);
 		System.out.println("Number of chars in pharese: " + phrase.length());
 
-		// Search Text
+		// Search Text alınacak kullanıcıdan
 		System.out.println("Please enter a search text: ");
 		String searchText = scanner.nextLine();
 
