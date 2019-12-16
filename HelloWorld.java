@@ -6,6 +6,7 @@ public class AAsecimsorusuKomplex {
 		Scanner scanner = new Scanner(System.in);
 		//secim sistemi
 		//secim sistemi 2
+		//Merge1
 		int sehirMvSayısı = 0;
 		boolean validInput = false;
 
