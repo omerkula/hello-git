@@ -4,7 +4,7 @@ public class AAsecimsorusuKomplex {
 
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
-		
+		//secim sistemi
 		int sehirMvSayısı = 0;
 		boolean validInput = false;
 
